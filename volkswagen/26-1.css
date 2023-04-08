@@ -1,0 +1,36 @@
+.vw-logo{
+    width: 50px;
+}
+
+.nav-link{
+color: rgb(87, 87, 95);
+opacity: 1;
+font-weight: 900;
+}
+
+img{
+    width: 100%;
+}
+
+.zoom{
+    transition: 0.5s;
+}
+
+.zoom:hover{
+    transform: scale(1.5);
+}
+
+.col-md-5{
+overflow: hidden;
+}
+
+i{
+font-size: 1.5rem;
+margin-right: 10px;
+transition: 0.5s;
+}
+
+i:hover{
+ color: rgb(156, 156, 156);
+ cursor: pointer;
+}
