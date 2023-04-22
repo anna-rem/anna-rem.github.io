@@ -1,0 +1,33 @@
+html{
+    scroll-behavior: smooth;
+}
+
+
+img{
+    width: 100%;
+}
+
+.m2, .r2{
+    border-radius: 50%;
+}
+
+nav{
+    font-family: 'Press Start 2P', cursive;
+}
+
+.my-bg>h1{
+    font-family: 'Philosopher', sans-serif;
+}
+
+.my-bg>h2{
+    font-family: 'Philosopher', sans-serif;
+}
+
+.row{
+    margin: 50px 0;
+    align-items: center;
+}
+
+.container{
+    background-color: rgb(185, 184, 172);
+}
