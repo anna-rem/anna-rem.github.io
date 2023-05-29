@@ -1,0 +1,246 @@
+.navbar{
+    background-color: #03335b;
+}
+
+.logo2{
+    width: 70px;
+}
+
+img{
+    width: 100%;
+}
+
+.dropdown-item:hover{
+    background-color: rgba(170, 170, 170, 0.498);
+    font-weight: 600;
+}
+
+.topimg{
+    background-image: url(shark1.jpg);
+    background-size: cover;
+    background-position: 40% 50%;
+    height: 90vh;
+    color: rgb(246, 249, 254);
+    display: flex;
+    align-items: center;
+}
+
+.topimg2{
+    background-image: url(great-white-shark.jpg);
+    background-size: cover;
+    background-position: 66% 50%;
+    height: 90vh;
+    color: rgb(246, 249, 254);
+    display: flex;
+    align-items: center;
+}
+
+.topimg3{
+    background-image: url(whale-shark.jpg);
+    background-size: cover;
+    background-position: 73% 50%;
+    height: 90vh;
+    color: rgb(246, 249, 254);
+    display: flex;
+    align-items: center;
+}
+
+.topimg4{
+    background-image: url(mako.jpg);
+    background-size: cover;
+    background-position: 60% 50%;
+    height: 90vh;
+    color: rgb(246, 249, 254);
+    display: flex;
+    align-items: center;
+}
+
+.topimg5{
+    background-image: url(reef.jpg);
+    background-size: cover;
+    background-position: 20% 50%;
+    height: 90vh;
+    color: rgb(246, 249, 254);
+    display: flex;
+    align-items: center;
+}
+
+.topimg6{
+    background-image: url(giant.jpg);
+    background-size: cover;
+    background-position: 40% 50%;
+    height: 90vh;
+    color: rgb(246, 249, 254);
+    display: flex;
+    align-items: center;
+}
+
+.topimg7{
+    background-image: url(greenland.jpg);
+    background-size: cover;
+    background-position: 60% 50%;
+    height: 90vh;
+    color: rgb(246, 249, 254);
+    display: flex;
+    align-items: center;
+}
+
+.topimg8{
+    background-image: url(blue1.jpg);
+    background-size: cover;
+    background-position: 60% 50%;
+    height: 90vh;
+    color: rgb(246, 249, 254);
+    display: flex;
+    align-items: center;
+}
+
+.topimg9{
+    background-image: url(fox3.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+    height: 90vh;
+    color: rgb(246, 249, 254);
+    display: flex;
+    align-items: center;
+}
+
+.topimg10{
+    background-image: url(hammerhead.jpg);
+    background-size: cover;
+    background-position: 60% 50%;
+    height: 90vh;
+    color: rgb(246, 249, 254);
+    display: flex;
+    align-items: center;
+}
+
+.topimg11{
+    background-image: url(katran.jpg);
+    background-size: cover;
+    background-position: 60% 50%;
+    height: 90vh;
+    color: rgb(246, 249, 254);
+    display: flex;
+    align-items: center;
+}
+
+.topimg12{
+    background-image: url(tiger.jpg);
+    background-size: cover;
+    background-position: 30% 50%;
+    height: 90vh;
+    color: rgb(246, 249, 254);
+    display: flex;
+    align-items: center;
+}
+
+h1{
+   transform: translateY(100px) translateX(60px);
+   font-size: 80px;
+}
+
+.h1-5{
+    transform: translateY(165px) translateX(60px);
+    font-size: 80px;
+}
+
+.h1-3{
+    transform: translateY(120px) translateX(60px);
+    font-size: 80px;
+}
+
+.h1-2{
+    transform: translateY(159px) translateX(60px);
+    font-size: 80px;
+}
+
+.h1-7{
+    transform: translateY(159px) translateX(3px);
+    font-size: 57px;
+}
+
+.h1-8{
+    transform: translateY(195px) translateX(60px);
+    font-size: 80px;
+}
+
+.h1-9{
+    transform: translateY(195px) translateX(30px);
+    font-size: 80px;
+}
+
+.h1-10{
+    transform: translateY(195px) translateX(12px);
+    font-size: 80px;
+}
+
+.h1-11{
+    transform: translateY(220px) translateX(27px);
+    font-size: 57px;
+}
+
+.h1-12{
+    transform: translateY(195px) translateX(60px);
+    font-size: 80px;
+}
+
+body{
+   font-family: 'Cuprum', sans-serif;
+   color: rgb(246, 249, 254);
+   scroll-behavior: smooth;
+}
+
+.main{
+    background: linear-gradient(180deg, #01365E,#01365ea6);
+    padding: 25px;
+}
+
+.m1{
+    background-color: rgba(250, 235, 215, 0.44);
+   padding: 10px;
+}
+
+.m2{
+    background-color: rgba(250, 235, 215, 0.44);
+    margin-top: 20px;
+}
+
+.title{
+    margin-bottom: 0;
+    color: #032948b5;
+    font-size: 23px;
+}
+
+.title2{
+    color: #03335bae;
+}
+
+.link{
+    color: #03335b;
+    text-decoration: none;
+}
+
+.link:hover{
+    text-decoration: underline;
+}
+
+footer{
+    padding: 30px 0;
+    color: rgb(246, 249, 254);
+    background-color: #01365E;
+}
+
+.socio-link{
+    color: rgb(246, 249, 254);
+    font-size: 2rem;
+    margin: 10px;
+    text-decoration: none;
+}
+.socio-link:hover{
+    color: rgba(250, 235, 215, 0.44);
+}
+
+.prava{
+    text-align: right;
+}
