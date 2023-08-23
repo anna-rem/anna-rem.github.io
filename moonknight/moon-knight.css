@@ -1,0 +1,161 @@
+.to-top{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color:  rgba(56, 56, 56, 0.762);
+    color: rgb(246, 249, 254);
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 0.5s;
+}
+    
+.to-top:hover{
+    background-color:   rgba(95, 95, 95, 0.892);
+    color: rgb(236, 236, 236);
+}
+    
+.to-top p{
+    margin: 0;}
+
+img{
+    width: 100%;
+}
+
+body{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.navbar{
+    background-color: #131313;
+    color: #f4f4f4d6;
+}
+
+.nav-item{
+    padding-left: 110px;
+    padding-right: 110px;
+}
+
+.topimg{
+    background-image: url(mkkk.jpg);
+    height: 70vh;
+    background-size: cover;
+    background-position: 40% 6%;
+}
+
+h1{
+    font-family: 'Josefin Sans', sans-serif;
+    color: #FEFEFE;
+    text-shadow: 5px 2px 4px #1919197f;
+    font-size: 80px;
+    text-align: center;
+}
+
+.hh{
+    transform: translateX(-15px) translateY(180px);
+}
+
+.h{
+    transform: translateX(-15px) translateY(180px);
+}
+
+.plot{
+    color: #f4f4f4b6;
+    background: linear-gradient(#191919, #0e0e0e);
+    font-family: 'Alice', serif;
+}
+
+h2{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.text{
+    padding: 15px;
+}
+
+p{
+     font-size: 15.4px;
+}
+
+span{
+    margin-bottom: 40px;
+}
+
+.pic{
+    max-width: 100%;
+    height: auto;
+}
+
+.pp{
+    padding-top: 10px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.pict{
+    text-align: center;
+}
+
+.accordion>.accordion-item{
+    background: #0e0e0e;
+    color: #f4f4f4b6;
+    border: 1px solid rgb(19, 19, 19);
+}
+
+.accordion-button{
+    background: #0e0e0e;
+    color: #f4f4f4b6;
+}
+
+.accordion-button:not(.collapsed){
+    background-color: #191919;
+    color: #f4f4f4b6;
+    border: 1px solid rgb(19, 19, 19);
+}
+
+.accordion-button:not(.collapsed)::after{
+    filter: brightness(0%) invert(70%);
+}
+
+.accordion-button:focus{
+    box-shadow: inherit;
+}
+
+.accordion-header{
+    background: #0e0e0e;
+}
+
+footer{
+    padding: 30px 0;
+    color: #f4f4f4b6;
+    background-color: #131313;
+}
+
+.socio-link{
+    color: #f4f4f4b6;
+    font-size: 2rem;
+    margin: 10px;
+    text-decoration: none;
+}
+
+.socio-link:hover{
+    color: #FEFEFE;
+}
+
+.linkk{
+    color: #f4f4f4d6;
+    text-decoration: none;
+    transition: 0.2s;
+    font-size: 1.5rem;
+}
+
+.linkk:hover{
+    color: #FEFEFE;
+    text-decoration: underline;
+}
+
+.links{
+    text-align: right;
+}
